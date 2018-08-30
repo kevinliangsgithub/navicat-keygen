@@ -16,11 +16,11 @@
 
 ## 2. 如何使用这个Keygen
 
-  3. 对于Navicat Premium版本 < 12.0.24的：
+  1. 替换rpk：
 
        * 用生成或提供的`rpk`文件替换掉`Navicat Premium.app/Contents/Resources/rpk`。
 
-  4. 接下来，打开`Terminal.app`，并定位到`navicat-keygen`文件夹：
+  2. 接下来，打开`Terminal.app`，并定位到`navicat-keygen`文件夹：
 
      ```bash
      $ ./navicat-keygen 2048key.pem
